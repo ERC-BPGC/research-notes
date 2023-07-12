@@ -19,7 +19,7 @@ theme:
     accent: light-blue
 
 repo_name: 'Research Notes'
-repo_url: 'https://github.com/ERC-BPGC/handbook'
+repo_url: 'https://github.com/ERC-BPGC/research-notes'
 
 markdown_extensions:
   - attr_list
@@ -29,6 +29,15 @@ markdown_extensions:
   - admonition
   - pymdownx.arithmatex:
       generic: true
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+google_analytics:
+  - UA-173174352-1
+  - auto
 
 extra:
   social:
@@ -49,6 +58,7 @@ extra:
 
 nav:
   - Home: index.md
+  - About Us: about.md
   - Controls: controls/
   - Machine Learning: machine_learning/
   - Localisation: localisation/
