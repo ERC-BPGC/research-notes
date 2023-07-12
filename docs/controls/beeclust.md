@@ -1,6 +1,6 @@
 # BEECLUST: A Swarm Algorithm Derived from Honeybees.
 
-<strong>Written By:</strong> Arjun Puthli 
+<strong>Summarised By:</strong> Arjun Puthli 
 
 Refer to paper [here](http://heikohamann.de/pub/schmickl_beeclust_2011.pdf)
 
