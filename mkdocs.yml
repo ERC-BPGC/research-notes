@@ -1,0 +1,56 @@
+site_name: ERC Research Notes
+site_url: https://example.com/
+
+site_description: A beginners guide to all things robotics
+site_author: Electronics and Robotics Club (ERC), BITS Goa
+
+copyright: 'Copyright &copy; 2023 Electronics and Robotics Club (ERC), BITS Goa'
+
+theme:
+  name: 'material'
+  language: en
+  icon:
+    logo: material/book-open-page-variant
+  features:
+    - tabs
+  favicon: images/logo.png
+  palette:
+    primary: light-blue
+    accent: light-blue
+
+repo_name: 'Research Notes'
+repo_url: 'https://github.com/ERC-BPGC/handbook'
+
+markdown_extensions:
+  - attr_list
+  - smarty
+  - admonition
+  - codehilite
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/erc_bpgc
+
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/ElectronicsAndRoboticsClub   
+
+    - icon: fontawesome/brands/github
+      link: https://github.com/ERC-BPGC
+
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/erc_bitsgoa/  
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/electronics-robotics-club-bits-goa/
+
+nav:
+  - Home: index.md
+  - Controls: controls/
+  - Machine Learning: machine_learning/
+  - Localisation: localisation/
+  - Electronics: electronics/
+  - Mechanical: mechanical/
