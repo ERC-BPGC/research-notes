@@ -61,7 +61,11 @@ nav:
   - About Us: about.md
   - Controls:
     - BEECLUST Swarm Algorithm: controls/beeclust.md
-  - Machine Learning: machine_learning/
-  - Localisation: localisation/
-  - Electronics: electronics/
-  - Mechanical: mechanical/
+  - Machine Learning:
+    - No content yet: index.md
+  - Localisation:
+    - No content yet: index.md
+  - Electronics:
+    - No content yet: index.md
+  - Mechanical:
+    - No content yet: index.md
