@@ -1,0 +1,4 @@
+name: research-book
+channels:
+  - defaults
+prefix: /home/arjune/anaconda3/envs/research-book

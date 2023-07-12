@@ -59,7 +59,8 @@ extra:
 nav:
   - Home: index.md
   - About Us: about.md
-  - Controls: controls/
+  - Controls:
+    - BEECLUST Swarm Algorithm: controls/beeclust.md
   - Machine Learning: machine_learning/
   - Localisation: localisation/
   - Electronics: electronics/
