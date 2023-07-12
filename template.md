@@ -1,6 +1,6 @@
 # Paper Title
 
-<strong>Written by:</strong> Your name
+<strong>Summarised By:</strong> Your name
 
 Refer to paper [here](paper_url)
 
