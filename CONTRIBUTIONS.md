@@ -56,7 +56,7 @@ We are using [Python Markdown](https://facelessuser.github.io/pymdown-extensions
 Adding a new page to the handbook involves two steps -
 
 1. Create the `.md` file for the page in the relevant section.
-2. Modify the `nav` section of `mkdocs.yml` to contain a reference to the name of the new file. As an example, if you want to add content to the _Getting started with ROS_ subsection of the _ROS_ sub-section of _Automation_, the `nav` segement will look something like this :
+2. Modify the `nav` section of `mkdocs.yml` to contain a reference to the name of the new file. As an example, if you want to add content to the _Controls_ sub-section then modications to the yml file will be as follows :
 
 ```yaml
 nav :
