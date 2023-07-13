@@ -61,6 +61,7 @@ nav:
   - About Us: about.md
   - Controls:
     - BEECLUST Swarm Algorithm: controls/beeclust.md
+    - Probabalistic Aggregation: controls/probab_aggregation.md
   - Machine Learning: blank.md
   - Localisation: blank.md
   - Electronics: blank.md
