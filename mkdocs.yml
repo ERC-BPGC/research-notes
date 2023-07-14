@@ -66,3 +66,5 @@ nav:
   - Localisation: blank.md
   - Electronics: blank.md
   - Mechanical: blank.md
+  - Mathematics:
+    - About: maths/about.md
