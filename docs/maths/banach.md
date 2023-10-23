@@ -65,8 +65,7 @@ $$
 \begin{aligned}
 d(x,\tau(x)) &\leq d(x,x^{(n)}) + d(x^{(n)}, \tau(x))\\
 &= d(x,x^{(n)}) + d(\tau(x^{(n-1)}), \tau(x))\\
-&\leq d(x,x^{(n)}) + Kd(x^{(n-1)}, x)
-
+&\leq d(x,x^{(n)}) + Kd(x^{(n-1)}, x)\\
 \end{aligned}
 $$
 
@@ -77,7 +76,7 @@ Finally, we need to show that this fixed point is unique. Suppose there exists a
 $$
 \begin{aligned}
 d(x,y) &= d(\tau(x), \tau(y))\\
-&\leq Kd(x,y)
+&\leq Kd(x,y)\\
 \end{aligned}
 $$
 
