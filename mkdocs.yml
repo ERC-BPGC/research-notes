@@ -68,3 +68,4 @@ nav:
   - Mechanical: blank.md
   - Mathematics:
     - About: maths/about.md
+    - Banach Fixed Point Theorem: maths/banach.md
