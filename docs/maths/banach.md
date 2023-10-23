@@ -28,7 +28,7 @@ We can define an iterative process as follows:
 
 $
 x^{(0)} \in X \\
-x^{(n+1)} = \tau(x^{(n)}) \quad \forall n \in \mathbb{N}
+x^{(n+1)} = \tau(x^{(n)}) \quad \forall n \in \mathbb{N}\\
 $
 
 Hence we obtain  asequence {$x^{(n)}$} in $X$. We need to show that this sequence converges. Since the sequence is in a complete metric space, it is enough to show that this sequence is Cauchy.
